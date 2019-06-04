@@ -1,0 +1,20 @@
+
+body{
+	background-image: url(banner.jpg);
+	background-size: 100% 100%;
+}
+.tw2{
+	height: 60px;
+}
+.hx2{
+	height: 430px;
+}
+.laa {
+	height: 300px;
+}
+p{
+	font-size: 10px;
+}
+@p{
+
+}
